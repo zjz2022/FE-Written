@@ -1,0 +1,4 @@
+/*
+“ababac” —— “ababa”
+“aaabbbcceeff” —— “aaabbb”
+*/
